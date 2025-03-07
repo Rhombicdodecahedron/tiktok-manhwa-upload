@@ -46,3 +46,7 @@ urllib3
 websockets
 wsproto==1.2.0
 zipp==3.17.0
+
+google-api-python-client~=2.163.0
+google-auth-httplib2
+google-auth-oauthlib~=1.2.1
